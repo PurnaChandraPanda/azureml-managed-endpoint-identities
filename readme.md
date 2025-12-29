@@ -144,3 +144,9 @@ Response headers:
 }
 2025-12-29 05:18:10,394 [get_token_mixin] : INFO     [75] ClientSecretCredential.get_token succeeded
 ```
+
+## How to run samples?
+- For SAI based azureml managed endpoint, follow notebook - [online-endpoint-sai-upload.ipynb](online-endpoint-sai-upload.ipynb).
+- For UAI based azureml managed endpoint, follow notebook - [online-endpoint-uai-upload.ipynb](online-endpoint-uai-upload.ipynb).
+- For SP based azureml managed endpoint, follow notebook - [online-endpoint-sp-upload.ipynb](online-endpoint-sp-upload.ipynb).
+
