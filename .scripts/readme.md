@@ -19,5 +19,5 @@ git config --global user.name "PurnaChandraPanda"
 
 - run following script for every check-in
 ```
-./.scripts/git_push.sh "readme update"
+.scripts/git_push.sh "readme update"
 ```
